@@ -1,1 +1,1 @@
-# EMG-Arduino
+# EMG com Arduino
